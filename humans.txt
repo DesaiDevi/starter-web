@@ -15,4 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Ajax
-	Machine Learnig 
+	Machine Learning 
