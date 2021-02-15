@@ -8,7 +8,7 @@
 # THANKS
 
     <name>
-
+Special thanks to all the subscribers and the followers
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
