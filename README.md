@@ -9,4 +9,4 @@ Sample website with plenty of files for demos
 adding GIT comparison lecture
 
 ## GITHUB content comparison with Git REPO
-Adding some data
+Adding some data in the readme file
